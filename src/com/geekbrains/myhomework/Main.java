@@ -10,7 +10,7 @@ import com.geekbrains.myhomework.obstacles.Wall;
 
 public class Main {
     public static void main(String[] args) {
-        Competition [] competitors ={
+        Competition[] competitors ={
                 new People("Vanya", 2500, 5),
                 new People("Vladimir", 2000,1),
                 new People("Timur", 1500,4),
